@@ -24,3 +24,6 @@ build/
 
 #upload base directory
 base-dir/
+
+#maven
+target/
